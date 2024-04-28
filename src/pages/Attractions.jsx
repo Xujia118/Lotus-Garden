@@ -3,8 +3,8 @@ import React, { useState } from "react";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Lotus from "./Lotus";
-import GuoMansion from "./guoMansion";
-import SuDi from "./suDi";
+import GuoMansion from "./GuoMansion";
+import SuDi from "./SuDi";
 
 import "./Attractions.css";
 
