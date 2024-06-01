@@ -28,7 +28,7 @@ function GuoMansion() {
 
         <div>
           <blockquote>
-            <p>
+            <p className="attractions-text">
               Su Causeway winds like a flowing ribbon, <br />
               Small pavilions by the water reflect emptiness. <br />
               It seems as if the melody has ended, and people are nowhere to be
@@ -37,9 +37,9 @@ function GuoMansion() {
             </p>
           </blockquote>
 
-          <p>—Chen Congzhou, "Leisurely Gazing at Guozhuang by West Lake"</p>
+          <p className="attractions-text">—Chen Congzhou, "Leisurely Gazing at Guozhuang by West Lake"</p>
 
-          <p>
+          <p className="attractions-text">
             Guozhuang is located at 28 Yanggongdi, Xihu District, Hangzhou City,
             Zhejiang Province, China (formerly No. 8 East of Wolong Bridge on
             Xishan Road), adjacent to the Quyuan Fenghe Park. It is a
@@ -49,7 +49,7 @@ function GuoMansion() {
             pavilions.
           </p>
 
-          <p>
+          <p className="attractions-text">
             The garden was initially constructed during the Xianfeng period of
             the Qing Dynasty by Song Duanfu, a silk merchant in Hangzhou.
             Originally named Duanyou Villa, it was commonly known as Songzhuang.
@@ -59,7 +59,7 @@ function GuoMansion() {
             opened to the public after undergoing renovations from 1989 to 1991.
           </p>
 
-          <p>
+          <p className="attractions-text">
             The entire garden has a rectangular layout, covering an area of 9788
             square meters, with water occupying 29.3% of the space and
             connecting to West Lake. The total architectural area is 1629 square
@@ -72,7 +72,7 @@ function GuoMansion() {
             and the south end.
           </p>
 
-          <p>
+          <p className="attractions-text">
             Due to its proximity to the West Lake on the east side, Guozhuang
             has structures along the lake, such as the Chengfeng Yaoyue
             Pavilion, Shangxin Yuemu Pavilion, and Jingsu Ge, among others.

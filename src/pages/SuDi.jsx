@@ -27,7 +27,7 @@ function SuDi() {
       </div>
 
       <div>
-        <p>
+        <p className="attractions-text">
           Su Causeway, an emblematic feature of Hangzhou's West Lake, weaves a
           story that intertwines nature, poetry, and history. The origins of the
           causeway trace back to the ambitious endeavors of Emperor Yang of the
@@ -39,7 +39,7 @@ function SuDi() {
           testament to his cultural legacy.
         </p>
 
-        <p>
+        <p className="attractions-text">
           Su Shi, or Su Dongpo, was not merely a bureaucratic figure; he was a
           polymath whose contributions spanned literature, calligraphy, and
           landscape design. His involvement in the development of Su Causeway
@@ -50,7 +50,7 @@ function SuDi() {
           serenity and inspiration that fueled his creativity.
         </p>
 
-        <p>
+        <p className="attractions-text">
           Ranked first among the "Ten Scenes of the West Lake," Su Causeway
           encapsulates the quintessential allure of Hangzhou's natural
           landscape. Its poetic charm lies in the weeping willows that
@@ -61,7 +61,7 @@ function SuDi() {
           fiery-hued leaves creating a picturesque autumnal spectacle.
         </p>
 
-        <p>
+        <p className="attractions-text">
           Wandering along Su Causeway, visitors are enveloped in a tranquil
           ambiance that transcends time. Traditional Chinese pavilions and
           bridges dot the causeway, providing vantage points for admiring the
@@ -71,7 +71,7 @@ function SuDi() {
           roots and timeless aesthetics.
         </p>
 
-        <p>
+        <p className="attractions-text">
           In modern times, Su Causeway remains a haven for locals and tourists
           seeking respite from the bustling city life. Its cultural
           significance, coupled with the breathtaking scenery, makes it a
